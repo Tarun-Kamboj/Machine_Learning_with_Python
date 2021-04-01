@@ -9,10 +9,10 @@ This repository contains code for various machine learning algorithms made using
 <h3><details>
 	<summary>Regression</summary>
 	<ol>
-		<li><a href="Simple%20Linear%20Regression">Simple Linear Regression</a></li>
-		<li><a href="Multiple%20Linear%20Regression">Multiple Linear Regression</a></li>
-		<li><a href="Polynomial%20Regression">Polynomial Regression</a></li>
-		<li><a href="Non-Linear%20Regression">Non-Linear Regression</a></li>
+		<li><h4><a href="Simple%20Linear%20Regression">Simple Linear Regression</a></h4></li>
+		<li><h4><a href="Multiple%20Linear%20Regression">Multiple Linear Regression</a></h4></li>
+		<li><h4><a href="Polynomial%20Regression">Polynomial Regression</a></h4></li>
+		<li><h4><a href="Non-Linear%20Regression">Non-Linear Regression</a></h4></li>
 	</ol>
 </details></h3>
 
