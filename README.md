@@ -6,7 +6,7 @@
 
 This repository contains code for various machine learning algorithms made using python. Following are the links for the same.
 
-<details>
+<h3><details>
 	<summary>Regression</summary>
 	<ol>
 		<li><a href="Simple%20Linear%20Regression">Simple Linear Regression</a></li>
@@ -14,6 +14,6 @@ This repository contains code for various machine learning algorithms made using
 		<li><a href="Polynomial%20Regression">Polynomial Regression</a></li>
 		<li><a href="Non-Linear%20Regression">Non-Linear Regression</a></li>
 	</ol>
-</details>
+</details></h3>
 
 ## Thanks for Reading :)
