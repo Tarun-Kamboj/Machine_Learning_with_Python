@@ -16,7 +16,7 @@
 
 This repository contains code for various machine learning algorithms implemented in python. Following are the links for the same.
 
-<h3><details>
+<h3><details open>
 	<summary>Regression</summary>
 	<ol>
 		<li><h4><a href="Simple%20Linear%20Regression">Simple Linear Regression</a></h4></li>
@@ -26,7 +26,7 @@ This repository contains code for various machine learning algorithms implemente
 	</ol>
 </details></h3>
 
-<h3><details>
+<h3><details open>
 	<summary>Classification</summary>
 	<ol>
 		<li><h4><a href="KNN%20for%20Classification">K-Nearest Neighboours (KNN)</a></h4></li>
@@ -36,7 +36,7 @@ This repository contains code for various machine learning algorithms implemente
 	</ol>
 </details></h3>
 
-<h3><details>
+<h3><details open>
 	<summary>Clustering</summary>
 	<ol>
 		<li><h4><a href="K-Means%20for%20Clustering">K-Means</a></h4></li>
