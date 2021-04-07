@@ -3,7 +3,6 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/repo-size/Tarun-Kamboj/Machine_Learning_using_Python?style=for-the-badge&color=fbff7d">
-	<img src="https://img.shields.io/badge/Completed-No-ff2b32?style=for-the-badge">
 	<img src="https://img.shields.io/badge/Maintained-Yes-0bd44a?style=for-the-badge">
 	<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-5462ff?style=for-the-badge"></a>
 	<img src="https://img.shields.io/badge/Contributions-Welcome-a92ff5?style=for-the-badge">
@@ -14,7 +13,7 @@
 
 ## About the Repo
 
-This repository contains code for various machine learning algorithms implemented in python. Following are the links for the same.
+This repository contains code for various machine learning algorithms implemented in python. Following are the links for the same. 
 
 <h3><details open>
 	<summary>Regression</summary>
@@ -40,7 +39,19 @@ This repository contains code for various machine learning algorithms implemente
 	<summary>Clustering</summary>
 	<ol>
 		<li><h4><a href="K-Means%20for%20Clustering">K-Means</a></h4></li>
+		<li><h4><a href="Hierarchichal%20Clustering">Hierarchichal</a></h4></li>
+		<li><h4><a href="DBSCAN%20for%20Clustering">DBSCAN</a></h4></li>
+	</ol>
+</details></h3>
+
+<h3><details open>
+	<summary>Recommendation Systems</summary>
+	<ol>
+		<li><h4><a href="Collaborative%20Filtering%20Reccomendation%20System">Collaborative Filtering</a></h4></li>
+		<li><h4><a href="Content%20Based%20Filtering%20Reccomendation%20System">Content Based Filtering</a></h4></li>
 	</ol>
 </details></h3>
 
 ## Thanks for Reading :)
+
+Code rights belongs to the original creators. Created by [Tarun Kamboj](https://github.com/Tarun-Kamboj).
