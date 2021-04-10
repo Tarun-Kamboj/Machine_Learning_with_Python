@@ -54,4 +54,8 @@ This repository contains code for various machine learning algorithms implemente
 
 ## Thanks for Reading :)
 
-Code rights belongs to the original creators. Created by [Tarun Kamboj](https://github.com/Tarun-Kamboj).
+[MIT License](LICENSE)
+
+Copyright (c) 2021, Code rights belongs to the original creators. 
+
+Author - [Tarun Kamboj](https://github.com/Tarun-Kamboj).
