@@ -52,6 +52,13 @@ This repository contains code for various machine learning algorithms implemente
 	</ol>
 </details></h3>
 
+<h3><details>
+	<summary>Neural Networks</summary>
+	<ol>
+		<li><h4><a href="Code/Artificial%20Neural%20Network">ANN Forward Propagation</a></h4></li>
+	</ol>
+</details></h3>
+
 ## Thanks for Reading :)
 
 [MIT License](LICENSE)
